@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ## I'm Harol Chaverra
+<a href="">My repo<a/>
 <table>
   <tr>
     <td>
@@ -71,6 +72,11 @@
        <a href="https://www.linkedin.com/in/harol-chaverra-147204274/" target="_blank">
         <img align="center" alt="Contact\Linkedin" width="30em" src="https://w7.pngwing.com/pngs/770/472/png-transparent-linkedin-social-icons-icon.png" />
       </a> &nbsp;&nbsp;
+      <a href="https://twitter.com/Harol82332154" target="_blank">
+        <img align="center" alt="Contact\Twitter" width="30em" src="https://logos-world.net/wp-content/uploads/2023/08/X-Logo.png" />
+      </a> &nbsp;&nbsp;
+
+      
 
 
 
