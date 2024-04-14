@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm Harol Chaverra
-<a href="">My repo<a/>
+<h1>More info About proyects? <a href=""> My repo<a/></h1>
 <table>
   <tr>
     <td>
