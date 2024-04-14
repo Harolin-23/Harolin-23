@@ -7,8 +7,7 @@
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp;Estudiant <a href="https://ut.ac.ir/en">UT</a></li>
-        <li>📚 &nbsp; Studying Back-End languajes<a href="https://ut.ac.ir/en">UT</a></li>
+        <li> 🟧 &nbsp; Studying Back-End languajes in<a href="https://riwi.io/">Riwi</a></li>
         <li>🟩 &nbsp; Fron-tEnd Developer </li>
         <li>🟧&nbsp; Interested in Machine Learning and Optimization</li>
        </ul>
