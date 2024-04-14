@@ -17,7 +17,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="360em"   style="object-fit: contain" src="https://unblast.com/wp-content/uploads/2021/09/Desktop-Vibe-Illustration.jpg"/>
+        <img height="360em"   style="object-fit: cover" src="https://unblast.com/wp-content/uploads/2021/09/Desktop-Vibe-Illustration.jpg"/>
      </p>
     </td>
   </tr>
