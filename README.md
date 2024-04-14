@@ -61,9 +61,8 @@
    <td>
     <div align="center">
       <h2><b>How to Reach Me</b></h2>
-      <tr>
       <p>Please don't hesitate to contact me 
-        <br>if you need further information or help.
+      <br>if you need further information or help.
       </p>
           
   </div>
