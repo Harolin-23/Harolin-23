@@ -66,11 +66,8 @@
       </p>
       <br>
       <a href="https://wa.me/573003934237?Hola%20como%20Estas%20" target="_blank">
-      <img align="center" alt="Numero\WhatsApp" width="30em" src="https://th.bing.com/th/id/OIP.2dLk6ll9tqnl_3upRx5v1AHaHa?w=1019&h=1019&rs=1&pid=ImgDetMain" />
+      <img align="center" alt="Numero\WhatsApp" width="30em" src="https://freepngimg.com/download/whatsapp/77102-whatsapp-computer-call-telephone-icons-png-image-high-quality.png" />
       </a> &nbsp;&nbsp;
-      
-     
-      <br>
     </div>
    </td>
   </tr>
