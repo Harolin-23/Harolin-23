@@ -82,9 +82,3 @@
    </td>
   </tr>
 </table>
-
-------
-
-Credit: [Taabannn](https://github.com/Taabannn)
-
-Last Edited on: 07/08/2022
