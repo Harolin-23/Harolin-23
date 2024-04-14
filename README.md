@@ -66,6 +66,6 @@
         <br>if you need further information or help.
       </p>
           
-    </div>
+  </div>
   </td>
 </table>
