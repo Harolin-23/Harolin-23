@@ -66,8 +66,15 @@
       </p>
       <br>
       <a href="https://wa.me/573003934237?Hola%20como%20Estas%20" target="_blank">
-      <img align="center" alt="Numero\WhatsApp" width="30em" src="https://freepngimg.com/download/whatsapp/77102-whatsapp-computer-call-telephone-icons-png-image-high-quality.png" />
+        <img align="center" alt="Numero\WhatsApp" width="30em" src="https://freepngimg.com/download/whatsapp/77102-whatsapp-computer-call-telephone-icons-png-image-high-quality.png" />
       </a> &nbsp;&nbsp;
+       <a href="https://www.linkedin.com/in/harol-chaverra-147204274/" target="_blank">
+        <img align="center" alt="Contact\Linkedin" width="30em" src="https://w7.pngwing.com/pngs/770/472/png-transparent-linkedin-social-icons-icon.png" />
+      </a> &nbsp;&nbsp;
+
+
+
+      
     </div>
    </td>
   </tr>
