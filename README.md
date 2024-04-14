@@ -65,12 +65,13 @@
       <p>Please don't hesitate to contact me 
         <br>if you need further information or help.
       </p>
-      <hr>
-      <a href="https://wa.me/573003934237?Hola%20como%20Estas%20" target="_blank"><img align="center" alt="Numero\WhatsApp" width="30em" src="https://freepngimg.com/download/whatsapp/77102-whatsapp-computer-call-telephone-icons-png-image-high-quality.png" /></a>
+        <td>
+          <hr>
+          <a href="https://wa.me/573003934237?Hola%20como%20Estas%20" target="_blank"><img align="center" alt="Numero\WhatsApp" width="30em" src="https://freepngimg.com/download/whatsapp/77102-whatsapp-computer-call-telephone-icons-png-image-high-quality.png"</a>
       <hr>
       <a href="https://www.linkedin.com/in/harol-chaverra-147204274/" target="_blank"><img align="center" alt="Contact\Linkedin" width="30em" src="https://w7.pngwing.com/pngs/770/472/png-transparent-linkedin-social-icons-icon.png" /></a> &nbsp;&nbsp;
       <hr>
       <a href="https://twitter.com/Harol82332154" target="_blank"><img align="center" alt="Contact\Twitter" width="30em" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" /></a> &nbsp;&nbsp
-   </td>
+       </td>
   </tr>
 </table>
