@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/564x/8c/8e/ee/8c8eee8040244afbc586c73d36f4bc52.jpg" width="70%"  style="object-position: center;"></img>
+<img src="https://wallpaperaccess.com/full/5921251.jpg" width="100%"  style="object-position: center;"></img>
 
 ### ⛹🏼‍♂️ &nbsp;Sobre Mi
 
