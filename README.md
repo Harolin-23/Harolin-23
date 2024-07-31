@@ -103,13 +103,15 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 </details>
 <br/>
+<center>
 <table  width="100%" center>
-  <th width="50%">
+  <th width="80%">
     <img src="https://i.pinimg.com/564x/8c/8e/ee/8c8eee8040244afbc586c73d36f4bc52.jpg" width="100%" ></img>
   </th>
     <th width="50%">
       <h1>The Power</h1>
   </th>
 </table>
+<center>
 
 
