@@ -6,7 +6,7 @@
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;Sobre mim
+### :space_invader: &nbsp;Sobre Mi
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente trabalhando como Engenheiro de Software na [Cint](https://www.cint.com/). \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amor pela ciência e inovação.\
