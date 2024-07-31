@@ -2,11 +2,11 @@
 
 <center>
 <table  width="100%" center>
-  <th width="80%">
+  <th width="70%">
     <img src="https://i.pinimg.com/564x/8c/8e/ee/8c8eee8040244afbc586c73d36f4bc52.jpg" width="100%" ></img>
   </th>
     <th width="50%">
-      <h1>Harol</h1>
+      <h1>Harol Chaverra</h1>
   </th>
 </table>
 <center>
