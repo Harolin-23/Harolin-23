@@ -2,12 +2,18 @@
 
 ### ⛹🏼‍♂️ &nbsp;Sobre Mi
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente trabalhando como Engenheiro de Software na [Cint](https://www.cint.com/). \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amor pela ciência e inovação.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apaixonado por solução de problemas e automação de rotinas diárias.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Pesquisando sobre arquitetura de software, desenvolvimento e qualidade.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Programando desde 2004 com mais de 10 anos de experiencia em desenvolvimento de software empresarial.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Morando no Brasil com minha amada esposa :two_hearts:, Kali :service_dog: e Maia :service_dog:.
+🔻 ActualMente estudio en <a href="https://riwi.io/" style="color: red;">Riwi</a><br>
+🔻 En camino a Full stack development<br>
+🔻 Front-End development<br>
+---
+
+### 🏀 &nbsp;Pasiones 
+◽ Apasionado por el diseño y estructuracion de paginas web. <br>
+◽ Desarrollo de aplicativos mobiles <br>
+◽Diseñador de UX/UX con complementos como figma Etc.<br>
+
+
+### No bird soars too high, if the soars whith his own wings.
 
 <p align="center">
   <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -152,3 +158,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 <img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" />
 </p>
+
+---
+<img src="https://i.pinimg.com/564x/8c/8e/ee/8c8eee8040244afbc586c73d36f4bc52.jpg"></img>
+---
