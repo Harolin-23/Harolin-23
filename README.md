@@ -11,20 +11,20 @@
 </table>
 <center>
 
-### ⛹🏼‍♂️ &nbsp;Sobre Mi
+### <h1>⛹🏼‍♂️ &nbsp;Sobre Mi</h1>
 
 🔻 ActualMente estudio en <a href="https://riwi.io/" style="color: red;">Riwi</a><br>
 🔻 En camino a Full stack development<br>
 🔻 Front-End development<br>
 ---
 
-### 🏀 &nbsp;Pasiones 
+### <h1>🏀 &nbsp;Pasiones </h1>
 ◽ Apasionado por el diseño y estructuracion de paginas web. <br>
 ◽ Desarrollo de aplicativos mobiles <br>
 ◽Diseñador de UX/UX con complementos como figma Etc.<br>
 
 
-### No bird soars too high, if the soars whith his own wings.
+### <h1> - No bird soars too high, if the soars whith his own wings.</h1>
 
 <p >
   <a href="mailto:hchaverra26@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
