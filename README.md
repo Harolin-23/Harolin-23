@@ -160,5 +160,5 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </p>
 
 ---
-<img src="https://i.pinimg.com/564x/8c/8e/ee/8c8eee8040244afbc586c73d36f4bc52.jpg"></img>
+<img src="https://i.pinimg.com/564x/8c/8e/ee/8c8eee8040244afbc586c73d36f4bc52.jpg" width="100%" ></img>
 ---
