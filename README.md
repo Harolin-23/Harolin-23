@@ -103,7 +103,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 </details>
 <br/>
-<table  width="100%">
+<table  width="100%" center>
   <th width="50%">
     <img src="https://i.pinimg.com/564x/8c/8e/ee/8c8eee8040244afbc586c73d36f4bc52.jpg" width="100%" ></img>
   </th>
