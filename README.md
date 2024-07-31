@@ -15,7 +15,7 @@
 
 ### No bird soars too high, if the soars whith his own wings.
 
-<p align="center">
+<p >
   <a href="mailto:hchaverra26@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/harol-chaverra-147204274/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!--
@@ -102,15 +102,14 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 
 </details>
-
-<hr/>
 <br/>
+<table  width="100%">
+  <th width="50%">
+    <img src="https://i.pinimg.com/564x/8c/8e/ee/8c8eee8040244afbc586c73d36f4bc52.jpg" width="100%" ></img>
+  </th>
+    <th width="50%">
+      <h1>The Power</h1>
+  </th>
+</table>
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" />
-</p>
 
----
-<img src="https://i.pinimg.com/564x/8c/8e/ee/8c8eee8040244afbc586c73d36f4bc52.jpg" width="100%" ></img>
----
