@@ -12,8 +12,6 @@
 <center>
 
 ### <h1>⛹🏼‍♂️ &nbsp;Sobre Mi</h1>
-
-🔻 ActualMente estudio en <a href="https://riwi.io/" style="color: red;">Riwi</a><br>
 🔻 En camino a Full stack development<br>
 🔻 Front-End development<br>
 ---
